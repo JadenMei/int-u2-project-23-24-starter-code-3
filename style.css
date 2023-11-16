@@ -4,3 +4,23 @@ header {
     color: white;
     padding: 128px 16px;
 }
+img{
+  height: 300px;
+  width: 300px;
+}
+.pros{
+  border:3px solid black;
+  background-color:#85c6ff;
+  padding:5px;
+  border-radius:2.5px;
+}
+.homepage{
+  border:3px solid black;
+  background-color:#6bbaff;
+  padding:7px;
+  border-radius:2.5px;
+}
+img{
+  height:300px;
+  width:400px;
+}
