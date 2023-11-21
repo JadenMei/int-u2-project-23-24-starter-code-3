@@ -24,3 +24,20 @@ img{
   height:300px;
   width:400px;
 }
+body{
+  background-color: #ccffc2;
+}
+p{
+  color: #47009e;
+}
+.cons{
+  border:3px solid black;
+  background-color:#85c6ff;
+  padding:5px;
+  border-radius:2.5px;
+}
+img{
+  height:425px;
+  width:525px;
+padding-left: 90px;
+}
